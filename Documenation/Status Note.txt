@@ -1,0 +1,2 @@
+I am not familiar with databases (I planned using json but got stuck with the json for major part of the time for this project, so,  finally implemented it without them. I've used Map here to store employees). Class diagram and other documentation is there. I was not able to complete sequence diagram right now but will incorporate them soon in this.
+
